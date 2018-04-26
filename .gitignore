@@ -1,0 +1,7 @@
+*.pyc
+idea/
+pycache/
+*.log
+*.pyo
+*.xml
+.idea/workspace.xml
